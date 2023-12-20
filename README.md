@@ -7,4 +7,4 @@ MATLAB Online.
 The source code and licensing information for Dynare can be found at
 https://www.dynare.org
 
-The latest packaged version is 5.4.
+The latest packaged version is 5.5.
